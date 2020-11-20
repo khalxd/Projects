@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+
+        <title>Google</title>
+
+    	<style>
+
+		
+
+		#image_search{
+
+				
+
+			        color: blue;
+
+				position: relative;
+
+				left: 1350px;
+
+				
+
+			     }
+
+		#advanced_search{
+
+				    
+
+				    color: blue;
+
+				    position: relative;
+
+				    left: 1375px;
+
+				   
+
+				
+
+			         }
+
+		#bar{
+
+			border-radius: 25px;
+
+			position: relative;
+
+			left: 550px;
+
+			top: 220px;
+
+			height: 30px;
+
+			width: 450px;
+
+			
+
+			
+
+		    }
+
+		 
+
+		#submit{
+
+			
+
+			position: relative;
+
+			top: 260px;
+
+			left: 200px;
+
+			
+
+
+
+
+			
+
+			
+
+			}
+
+		#submit1 {
+
+			
+
+			position: relative;
+
+			top: 232px;
+
+			left: 780px;
+
+
+
+
+		
+
+			
+
+		
+
+		
+
+
+
+
+		
+
+	
+
+		
+
+	</style>
+
+    </head>
+
+    <body>
+
+		
+
+	
+
+		<a id="image_search" href="file:///C:/Users/Khaled%20Ahmed/OneDrive/Documents/images.html" > Image Search</a>
+
+		<a id="advanced_search" href="file:///C:/Users/Khaled%20Ahmed/OneDrive/Documents/advanced_search.html" > Advanced Search </a>
+
+	
+
+		<form action="https://google.com/search">
+
+            	    <input id="bar" type="text" name="q">
+
+            	    <input id="submit" type="submit" value="Google Search">
+
+		</form>
+
+		
+
+		<form action="https://artsandculture.google.com/partner/the-frick-collection">
+
+            	    <input id="submit1" type="submit" value="I'm Feeling Lucky">
+
+		</form>
+
+		
+
+		
+
+	
+
+	
+
+	
+
+    </body>
+
+</html>
