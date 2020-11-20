@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+    <head>
+
+        <title>Google</title>
+
+    	<style>
+
+
+
+
+		#google1{
+
+			color: blue;
+
+			position: relative;
+
+			left: 1475px;
+
+			
+
+			}
+
+			
+
+
+
+
+		#bar{
+
+			border-radius: 25px;
+
+			position: relative;
+
+			left: 550px;
+
+			top: 220px;
+
+			height: 30px;
+
+			width: 450px;
+
+			
+
+			
+
+		    }
+
+		 
+
+		#submit{
+
+	
+
+			position: relative;
+
+			top: 260px;
+
+			left: 250px;
+
+			
+
+
+
+
+			
+
+			
+
+			}
+
+
+
+
+		
+
+	
+
+		
+
+	</style>
+
+    </head>
+
+    <body>
+
+	
+
+	
+
+		<a id="google1" href="file:///C:/Users/Khaled%20Ahmed/OneDrive/Documents/google_search.html" > Google Search </a>
+
+		
+
+	
+
+		<form action="https://google.com/images">
+
+            	    <input id="bar" type="text" name="q">
+
+            	    <input id="submit" type="submit" value="Image Search">
+
+		</form>
+
+
+
+
+		
+
+		
+
+	
+
+	
+
+	
+
+    </body>
+
+</html>
