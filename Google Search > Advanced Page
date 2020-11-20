@@ -1,0 +1,399 @@
+<html lang="en">
+
+    <head>
+
+        <title>Google</title>
+
+    	<style>
+
+		#google{
+
+			
+
+			color: blue;
+
+			overflow: hidden;
+
+			font-size: 20px;
+
+			white-space: nowrap;
+
+			position: relative;
+
+			top: -15;
+
+			left: 1350;
+
+			
+
+			
+
+			}
+
+
+
+
+		#line1{
+
+			color: indianred;
+
+			font-weight: bold;
+
+			font-size: 30px;
+
+			position: relative;
+
+			top: 50;
+
+			left: 60;
+
+			
+
+			}
+
+		#line2{
+
+			color: grey;
+
+			position: relative;
+
+			font-size: 25px;
+
+			top: 135;
+
+			left: 10;
+
+		
+
+		
+
+			}
+
+		
+
+		#line3{
+
+			color: grey;
+
+			position: relative;
+
+			font-size: 25px;
+
+			top: 135;
+
+			left: 585;
+
+		
+
+		
+
+			}
+
+		#line4{
+
+			
+
+			color: grey;
+
+			position: relative;
+
+			top: 190;
+
+			right: 450;
+
+			}
+
+		#line5{
+
+			
+
+			color: grey;
+
+			position: relative;
+
+			top: 185;
+
+			left: 230;
+
+			}
+
+		#line6{
+
+			
+
+			color: grey;
+
+			position: relative;
+
+			top: 240;
+
+			right: 843;
+
+			}
+
+		#line7{
+
+			
+
+			color: grey;
+
+			position: relative;
+
+			top: 235;
+
+			right: 225;
+
+			}
+
+		#line8{
+
+			
+
+			color: grey;
+
+			position: relative;
+
+			top: 290;
+
+			right: 1260;
+
+			}
+
+		#line9{
+
+			
+
+			color: grey;
+
+			position: relative;
+
+			top: 285;
+
+			right: 605;
+
+			}
+
+		#line10{
+
+			overflow: hidden;
+
+			white-space: nowrap;
+
+			color: grey;
+
+			position: relative;
+
+			top: 320;
+
+			left: 245;
+
+			}
+
+		#line11{
+
+			
+
+			color: grey;
+
+			position: relative;
+
+			top: 320;
+
+			left: 890;
+
+			}
+
+
+
+
+		
+
+		#bar1{
+
+			width: 550px;
+
+			height: 30px;
+
+			position: relative;
+
+			left: 450; 
+
+			top: 140;
+
+			
+
+			
+
+			
+
+			}
+
+		#bar2{
+
+			width: 550px;
+
+			height: 30px;
+
+			position: relative;
+
+			right: 104; 
+
+			top: 190;
+
+			
+
+			
+
+			
+
+			}
+
+		#bar3{ 
+
+			width: 550px;
+
+			height: 30px;
+
+			position: relative;
+
+			right: 657; 
+
+			top: 240;
+
+			
+
+			
+
+			
+
+			
+
+			}
+
+		#bar4{
+
+			
+
+			width: 550px;
+
+			height: 30px;
+
+			position: relative;
+
+			left: 450; 
+
+			top: 260;
+
+			
+
+			
+
+			
+
+			}
+
+
+
+
+		 
+
+		#submit{
+
+			background-color: royalblue;
+
+			color: white;
+
+			font-size: 20px;
+
+			position: relative;
+
+			top: 300;
+
+			left: 273;
+
+			
+
+			
+
+			}
+
+
+
+
+		
+
+	
+
+		
+
+	</style>
+
+    </head>
+
+    <body>
+
+	
+
+		<span id="line1" > Advanced Search </span>
+
+		<span id="line2" > Find pages with... </span>
+
+		<span id="line3" > To do this in the search bar </span>
+
+		<span id="line4" > all these words: </span>
+
+		<span id="line5" > Type the important words: tricolor rat terrier </span>
+
+		<span id="line6" > this exact word or phrase: </span>
+
+		<span id="line7" > Put exact words in quotes: "rat terrier" </span>
+
+		<span id="line8" > any of these words: </span>
+
+		<span id="line9" > Type OR between all the words you want: miniature OR standard </span>
+
+		<span id="line10" > none of these words: </span>
+
+		<span id="line11" > Put a minus sign just before words you don't want:  -rodent, -"Jack Russell" </span>
+
+
+
+
+		<a id="google" href="file:///C:/Users/Khaled%20Ahmed/OneDrive/Documents/google_search.html" > Google Search</a>
+
+            	    
+
+		<form action="https://google.com/search">
+
+		    <input id="bar1" type="text" name="q">
+
+		    <input id="bar2" type="text" name="q">
+
+		    <input id="bar3" type="text" name="q">
+
+		    <input id="bar4" type="text" name="q">
+
+		    <input id="submit" type="submit" value="Advanced Search">
+
+            	    
+
+		</form>
+
+
+
+
+		
+
+		
+
+		
+
+	
+
+	
+
+	
+
+    </body>
+
+</html>
